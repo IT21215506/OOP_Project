@@ -16,10 +16,9 @@ Below are my four main functions.
 ----- Technologies and languages -----
 
 HTML & CSS
+Java Servlet
 Java script
-PHP
-MySQL DB
-Notepad++
+MySQL Workbench
 
 
 ------Interface--------
