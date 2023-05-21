@@ -7,17 +7,17 @@ Topic : Online Property Management System Project Id : SE/OOP_MLB_WD_2022_S2_180
 The project for the first semester of the second year was to develop a Property Management Site using Java. I was responsible for user login.
 Below are my four main functions.  
 
-1- Register
-2-Login
+1- Register <br> 
+2-Login <br>
 3-Manage Profile (Update, Delete)  
 4-Review
 
 
------ Technologies and languages -----
+----- Technologies and languages ----- <br>
 
-HTML & CSS
-Java Servlet
-Java script
+HTML & CSS <br>
+Java Servlet <br>
+Java script <br>
 MySQL Workbench
 
 
